@@ -1,0 +1,125 @@
+.navbar {  
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+#home {
+    background: url(../assets/img/Fall.jpg);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+#homeMiddle {
+    margin-right: auto;
+    margin-left: 20%;
+    position: absolute;
+    top: 45%;
+}
+
+#hello {
+    color: #F2EBEC;
+    font-size: 50px;
+    font-family: 'Amatic SC', cursive;
+}
+
+#name {
+    color: #F2EBEC;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-shadow: 4px 4px #56738C;
+    font-family: 'Philosopher', sans-serif;
+}
+
+#portfolio {
+    background: #F2EBEC;
+}
+
+#portfolio a:hover {
+    color: #F2D0A7;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+#portfolio a:link {
+    color: #2182BF;
+}
+
+small {
+    font-style: italic;
+}
+
+.card-title,
+.card-text {
+    padding-left: 1.25rem;
+}
+
+.gitLinks {
+    bottom: 0;
+}
+
+h2 {
+    color: #2182BF;
+    font-size: 3rem;
+    font-family: 'Volkhov', serif;
+}
+
+#about {
+    background: #56738C;
+    color: #F2EBEC;
+}
+
+#about p {
+    font-size: 16px;
+}
+
+#about img {
+    border-radius: 50%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Volkhov', serif;
+}
+
+#contact {
+    background:#56738C;
+    font-size: 20px;
+    color: #343840;
+}
+
+#contact a {
+    color: #F2D0A7;
+    text-decoration: gray;
+}
+
+#contact a:hover {
+    text-transform: uppercase;
+}
+
+a:link {
+    color: #56738C;
+    text-decoration: none;
+}
+
+a:active {
+    color: #56738C;
+}
+
+a:hover {
+    color: #F2D0A7;
+    text-size-adjust: 2rem;
+}
+
+a:visited {
+    color: #56738C;
+}
+
+p,
+a {
+    font-family: 'Raleway', sans-serif;
+}

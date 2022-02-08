@@ -35,6 +35,11 @@
     font-family: 'Philosopher', sans-serif;
 }
 
+/* Image size and position */
+#hero-img {
+    width: 30vw;
+}
+
 #portfolio {
     background: #F2EBEC;
 }

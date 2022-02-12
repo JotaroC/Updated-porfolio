@@ -41,7 +41,7 @@
 }
 
 #portfolio {
-    background: #F2EBEC;
+    background: white;
 }
 
 #portfolio a:hover {
@@ -68,14 +68,14 @@ small {
 }
 
 h2 {
-    color: #2182BF;
+    color: black;
     font-size: 3rem;
     font-family: 'Volkhov', serif;
 }
 
-#about {
+#about{
     background: #56738C;
-    color: #F2EBEC;
+    color: white;
 }
 
 #about p {
@@ -84,6 +84,7 @@ h2 {
 
 #about img {
     border-radius: 50%;
+    width: 50%;
 }
 
 h3 {

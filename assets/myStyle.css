@@ -35,11 +35,6 @@
     font-family: 'Philosopher', sans-serif;
 }
 
-/* Image size and position */
-#hero-img {
-    width: 30vw;
-}
-
 #portfolio {
     background: white;
 }
@@ -75,7 +70,7 @@ h2 {
 
 #about{
     background: #56738C;
-    color: white;
+    color: #F2D0A7;
 }
 
 #about p {
@@ -108,7 +103,7 @@ h3 {
 }
 
 a:link {
-    color: #56738C;
+    color: white;
     text-decoration: none;
 }
 
@@ -122,18 +117,17 @@ a:hover {
 }
 
 .btn {
-    background-color: #F2D0A7;
-    border: #F2D0A7;
-    color: #2182BF;
+    background-color: #2182BF;
+    color: white;
 }
 
 .btn:hover {
     background-color: #2182BF;  
-    color: #2182BF;
+    color: white;
 }
 
 a:visited {
-    color: #56738C;
+    color: #F2D0A7;
 }
 
 p,

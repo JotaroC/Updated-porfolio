@@ -121,6 +121,17 @@ a:hover {
     text-size-adjust: 2rem;
 }
 
+.btn {
+    background-color: #F2D0A7;
+    border: #F2D0A7;
+    color: #2182BF;
+}
+
+.btn:hover {
+    background-color: #2182BF;  
+    color: #2182BF;
+}
+
 a:visited {
     color: #56738C;
 }

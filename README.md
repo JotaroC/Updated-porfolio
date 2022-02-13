@@ -22,7 +22,7 @@ Click [here](https://jotaroc.github.io/Updated-portfolio/) to the deployed websi
 ## Contribute
 
 Contributions, issues and feature requests are welcome.
-Feel free to check [issues page](N/A) if you want to contribute.
+Feel free to check [issues page](https://github.com/JotaroC/Updated-portfolio/issues) if you want to contribute.
 
 
 ## Questions

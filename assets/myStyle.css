@@ -53,10 +53,16 @@ small {
     font-style: italic;
 }
 
+.card img {
+    height: 25rem;
+    width: auto;
+}
+
 .card-title,
 .card-text {
     padding-left: 1.25rem;
 }
+
 
 .gitLinks {
     bottom: 0;

@@ -140,3 +140,15 @@ p,
 a {
     font-family: 'Raleway', sans-serif;
 }
+
+@media (min-width: 320px) and (max-width: 425px) {
+    #homeMiddle {
+        margin-right: auto;
+        margin-left: 0%;
+        top: 45%;
+    }
+
+    #name {
+        font-size: 66px;
+    }
+}
